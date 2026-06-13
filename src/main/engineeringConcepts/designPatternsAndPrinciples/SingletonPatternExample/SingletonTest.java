@@ -1,5 +1,4 @@
-package main.engineeringConcepts.designPatternsAndPrinciples.SingletonPatternExample;
-
+package engineeringConcepts.designPatternsAndPrinciples.SingletonPatternExample;
 public class SingletonTest {
     public static void main(String[] args) {
         Logger logger1 = Logger.getInstance();

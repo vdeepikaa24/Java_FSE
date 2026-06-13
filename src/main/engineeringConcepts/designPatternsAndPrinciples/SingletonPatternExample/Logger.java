@@ -1,5 +1,4 @@
-package main.engineeringConcepts.designPatternsAndPrinciples.SingletonPatternExample;
-
+package engineeringConcepts.designPatternsAndPrinciples.SingletonPatternExample;
 public class Logger {
     private static Logger instance;
 
